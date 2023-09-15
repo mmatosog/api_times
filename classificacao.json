@@ -1,0 +1,122 @@
+[
+    {
+     "grupo": "A",
+     "selecao": "MILAN",
+     "posicao": 2,
+     "pontos": 1,
+     "jogos": 2,
+     "vitorias": 0,
+     "empates": 1,
+     "derrotas": 1,
+     "gols_pro": 3,
+     "gols_contra": 3,
+     "saldo_gols": 0,
+     "percentual_aproveitamento": 0.5555555555555556
+    },
+
+    {
+        "grupo": "B",
+        "selecao": "INTER DE MILÃO",
+        "posicao": 1,
+        "pontos": 4,
+        "jogos": 2,
+        "vitorias": 1,
+        "empates": 1,
+        "derrotas": 0,
+        "gols_pro": 5,
+        "gols_contra": 3,
+        "saldo_gols": 2,
+        "percentual_aproveitamento": 0.5555555555555556
+       },
+
+       {
+        "grupo": "C",
+        "selecao": "Real MADRID",
+        "posicao": 2,
+        "pontos": 3,
+        "jogos": 2,
+        "vitorias": 0,
+        "empates": 1,
+        "derrotas": 1,
+        "gols_pro": 3,
+        "gols_contra": 4,
+        "saldo_gols": -1,
+        "percentual_aproveitamento": 0.5555555555555556
+       },
+
+       {
+        "grupo": "D",
+        "selecao": "BARCELONA",
+        "posicao": 1,
+        "pontos": 6,
+        "jogos": 2,
+        "vitorias": 2,
+        "empates": 0,
+        "derrotas": 0,
+        "gols_pro": 8,
+        "gols_contra": 3,
+        "saldo_gols": 5,
+        "percentual_aproveitamento": 0.5555555555555556
+       },
+
+       {
+        "grupo": "E",
+        "selecao": "MUNCHESTER CITY",
+        "posicao": 2,
+        "pontos": 0,
+        "jogos": 2,
+        "vitorias": 0,
+        "empates": 0,
+        "derrotas": 2,
+        "gols_pro": 1,
+        "gols_contra": 8,
+        "saldo_gols": -7,
+        "percentual_aproveitamento": 0.5555555555555556
+       },
+
+
+       {
+        "grupo": "F",
+        "selecao": "ESTRELA VERMELHA",
+        "posicao": 1,
+        "pontos": 6,
+        "jogos": 2,
+        "vitorias": 2,
+        "empates": 0,
+        "derrotas": 0,
+        "gols_pro": 10,
+        "gols_contra": 1,
+        "saldo_gols": 9,
+        "percentual_aproveitamento": 0.5555555555555556
+       },
+
+       {
+        "grupo": "G",
+        "selecao": "BAYERN DE MUNICHEN",
+        "posicao": 2,
+        "pontos": 3,
+        "jogos": 2,
+        "vitorias": 1,
+        "empates": 0,
+        "derrotas": 1,
+        "gols_pro": 6,
+        "gols_contra": 7,
+        "saldo_gols": -1,
+        "percentual_aproveitamento": 0.5555555555555556
+       },
+
+       {
+        "grupo": "H1",
+        "selecao": "PARIS SAINT GERMAN",
+        "posicao": 1,
+        "pontos": 4,
+        "jogos": 2,
+        "vitorias": 1,
+        "empates": 1,
+        "derrotas": 0,
+        "gols_pro": 5,
+        "gols_contra": 3,
+        "saldo_gols": 2,
+        "percentual_aproveitamento": 0.5555555555555556
+       }
+    ]
