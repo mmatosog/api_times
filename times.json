@@ -1,0 +1,91 @@
+[
+	{
+		"grupo": "A",
+		"cor": "#2C5C6B",
+		"times": [
+			{
+				"time": "Milan",
+				"sigla": "MIL",
+				"imagem": " mil"
+			}
+			
+		]
+	},
+	{
+		"grupo": "B",
+		"cor": "#7DDFD2",
+		"times": [
+			{
+				"time": "Inter de Milão",
+				"sigla": "INT",
+				"imagem": "int"
+			}
+		]
+	},
+	{
+		"grupo": "C",
+		"cor": "#ECB3CB",
+		"times": [
+			{
+				"time": "Real Madrid",
+				"sigla": "RMA",
+				"imagem": "rma"
+			}
+		]
+	},
+	{
+		"grupo": "D",
+		"cor": "#F22688",
+		"times": [
+			{
+				"time": "Barcelona",
+				"sigla": "BAR",
+				"imagem": "bar"
+			}
+		]
+	},
+	{
+		"grupo": "E",
+		"cor": "#00968D",
+		"times": [
+			{
+				"time": "Manchester City",
+				"sigla": "MCI",
+				"imagem": "mci"
+			}
+		]
+	},
+	{
+		"grupo": "F",
+		"cor": "#78D64B",
+		"times": [
+			{
+				"time": "Estrela Vermelha",
+				"sigla": "ETV",
+				"imagem": "etv"
+			}
+		]
+	},
+	{
+		"grupo": "G",
+		"cor": "#FFA02F",
+		"times": [
+			{
+				"time": "Bayern de Munichen",
+				"sigla": "BAY",
+				"imagem": "bay"
+			}
+		]
+	},
+	{
+		"grupo": "H1",
+		"cor": "#FE5211",
+		"times": [
+			{
+				"time": "Paris Saint German",
+				"sigla": "PSG",
+				"imagem": "PSG"
+			}
+		]
+	}
+]
