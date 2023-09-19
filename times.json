@@ -6,7 +6,7 @@
 			{
 				"time": "Milan",
 				"sigla": "MIL",
-				"imagem": " mil"
+				"imagem": "https://logodownload.org/wp-content/uploads/2016/09/ac-milan-logo-2.png"
 			}
 			
 		]
@@ -18,7 +18,7 @@
 			{
 				"time": "Inter de Milão",
 				"sigla": "INT",
-				"imagem": "int"
+				"imagem": "https://logodownload.org/wp-content/uploads/2017/02/inter-milan-logo.png"
 			}
 		]
 	},
@@ -29,7 +29,7 @@
 			{
 				"time": "Real Madrid",
 				"sigla": "RMA",
-				"imagem": "rma"
+				"imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9n-7xJkyk4jKVGHIa7Kwgw7Th0fIWkW8a4sn5g7ck&s"
 			}
 		]
 	},
@@ -40,7 +40,7 @@
 			{
 				"time": "Barcelona",
 				"sigla": "BAR",
-				"imagem": "bar"
+				"imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/FCBarcelona.svg/2020px-FCBarcelona.svg.png"
 			}
 		]
 	},
@@ -51,7 +51,7 @@
 			{
 				"time": "Manchester City",
 				"sigla": "MCI",
-				"imagem": "mci"
+				"imagem": "https://w7.pngwing.com/pngs/789/1003/png-transparent-manchester-city-f-c-premier-league-city-of-manchester-stadium-manchester-derby-logo-manchester-city-logo-cdr-text-football-team-thumbnail.png"
 			}
 		]
 	},
@@ -62,7 +62,7 @@
 			{
 				"time": "Estrela Vermelha",
 				"sigla": "ETV",
-				"imagem": "etv"
+				"imagem": "https://logodownload.org/wp-content/uploads/2020/03/crvena-zvezda-logo-3.png"
 			}
 		]
 	},
@@ -73,7 +73,7 @@
 			{
 				"time": "Bayern de Munichen",
 				"sigla": "BAY",
-				"imagem": "bay"
+				"imagem": "https://logodownload.org/wp-content/uploads/2017/02/bayern-munchen-logo-0.png"
 			}
 		]
 	},
@@ -84,7 +84,7 @@
 			{
 				"time": "Paris Saint German",
 				"sigla": "PSG",
-				"imagem": "PSG"
+				"imagem": "https://logodownload.org/wp-content/uploads/2017/02/psg-logo-escudo-paris-saint-germain.png"
 			}
 		]
 	}
